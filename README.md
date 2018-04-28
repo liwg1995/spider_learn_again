@@ -1,4 +1,4 @@
 - biaoqingbao
   - 百度图片搜索的第一页的图片，需要什么图片，输入则自动爬取下载，下载的位置在images文件夹中
 - book_sacrpy
-  - 爬取书籍信息，采用scrapy框架,写入到csv文件中
+  - 爬取书籍信息，采用scrapy框架,写入mysql数据库
