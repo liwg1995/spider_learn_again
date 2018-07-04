@@ -12,8 +12,8 @@ import qiniu.config
 from qiniu import Auth,put_file, etag, urlsafe_base64_encode
 
 def upload(local_image):
-    access_key = "QxR4DsIF-JaA5-WY4j6JZVnGlS6KUnEubOE5C8HP"
-    secret_key = "prMuv9EtxpfjzgOio3_MCiDrj9FEZiZB95na0CDT"
+    access_key = "xxx"
+    secret_key = "xxxx"
     # dirname = "aiyuke/"
     key = local_image
     # 验证七牛云身份
